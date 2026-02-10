@@ -1,5 +1,5 @@
 
-const text = "Will you be my Valentine?";
+const text = "Will you be my Valentine shiana?";
 let index = 0;
 const typingEl = document.getElementById("typingText");
 
